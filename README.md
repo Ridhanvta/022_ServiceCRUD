@@ -3,3 +3,6 @@ GET "/"
 
 POST"/biodata"
 <img width="1512" height="982" alt="Screenshot 2026-10-21 at 10 23 45" src="https://github.com/user-attachments/assets/1c1d8776-1b07-4eaf-82a2-1e587e986a09" />
+
+PUT "biodata/:id"
+<img width="1512" height="982" alt="Screenshot 2026-10-21 at 10 28 56" src="https://github.com/user-attachments/assets/52bb60bc-c333-4c2a-96e6-a6315f33b40b" />
