@@ -6,3 +6,6 @@ POST"/biodata"
 
 PUT "biodata/:id"
 <img width="1512" height="982" alt="Screenshot 2026-10-21 at 10 28 56" src="https://github.com/user-attachments/assets/52bb60bc-c333-4c2a-96e6-a6315f33b40b" />
+
+DELETE "biodata/:id"
+<img width="1512" height="982" alt="Screenshot 2026-10-21 at 10 30 18" src="https://github.com/user-attachments/assets/3badeb09-2b71-42f8-97df-10e415501f47" />
